@@ -17,5 +17,6 @@
 - Mejorar poco a poco mi lógica y código
 
 ## 🌸 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎
-- GitHub: [Mi perfil](https://github.com/samonzfu)
-- LinkedIn: [Mi perfil](https://www.linkedin.com/in/sara-monz%C3%B3-fuentes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-monz%C3%B3-fuentes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samonzfu)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.monzo.fuentes@gmail.com)
