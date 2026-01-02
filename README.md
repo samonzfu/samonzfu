@@ -20,7 +20,7 @@
 - Próximamente...
 
 ## 📫 Contacto
-- GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+- GitHub: [github.com/tu-usuario](https://github.com/samonzfu)
 
 ---
 ⭐ En constante aprendizaje
