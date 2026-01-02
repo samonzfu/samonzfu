@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sara
+# Hola, soy Sara Monzó!
 
 ## 🌸 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈
 - Estudiante de primer curso de **Desarrollo de Aplicaciones Web (DAW)**
@@ -15,6 +15,8 @@
 - Aprender buenas bases de programación
 - Crear mis primeros proyectos web
 - Mejorar poco a poco mi lógica y código
+
+## 🌸 𝐄𝐒𝐓𝐀𝐃𝐈𝐒𝐓𝐈𝐂𝐀𝐒
 
 ## 🌸 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-monz%C3%B3-fuentes/)
