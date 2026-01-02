@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Sara
 
-<!--
-**samonzfu/samonzfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mí
+- Estudiante de primer curso de **Desarrollo de Aplicaciones Web (DAW)**
+- Principiante en programación
+- Interesada en aprender desarrollo web desde cero
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que estoy aprendiendo
+- HTML
+- CSS
+- JavaScript
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Objetivos
+- Aprender buenas bases de programación
+- Crear mis primeros proyectos web
+- Mejorar poco a poco mi lógica y código
+
+## 📂 Proyectos
+- Próximamente...
+
+## 📫 Contacto
+- GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+
+---
+⭐ En constante aprendizaje
