@@ -26,7 +26,6 @@ Mejorar poco a poco mi lógica y código.
 
 ## 💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎 💜
 
-<p align="center">
   <a href="https://www.linkedin.com/in/sara-monz%C3%B3-fuentes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -36,4 +35,3 @@ Mejorar poco a poco mi lógica y código.
   <a href="mailto:sara.monzo.fuentes@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-</p>
