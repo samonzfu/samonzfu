@@ -12,11 +12,7 @@ Me interesa especialmente la parte visual y la experiencia de usuario, cuidando 
 
 <h2 align="center">🌙 𝐓𝐄𝐂𝐍𝐎𝐋𝐎𝐆𝐈𝐀𝐒 🌙</h2>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,github,windows" />
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,flask,github,git,vscode"/>
 
 <h2 align="center">💜 𝐎𝐁𝐉𝐄𝐓𝐈𝐕𝐎𝐒 💜</h2>
 - Aprender buenas bases de programación.
