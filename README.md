@@ -2,12 +2,10 @@
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
-# Hola, soy Sara Monzó!
+# Estudiante de **Desarrollo de Aplicaciones Web***
 
 ## 💜 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈
-- Estudiante de primer curso de **Desarrollo de Aplicaciones Web (DAW)**
-- Principiante en programación
-- Interesada en aprender desarrollo web desde cero
+Actualmente estoy estudiando el primer año de **Desarrollo de Aplicaciones Web**
 
 ## 🌙 𝐓𝐄𝐂𝐍𝐎𝐋𝐎𝐆𝐈𝐀𝐒
 - HTML
