@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
-# Estudiante de **Desarrollo de Aplicaciones Web**
+# 𝐄𝐬𝐭𝐮𝐝𝐢𝐚𝐧𝐭𝐞 𝐝𝐞 **𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨 𝐝𝐞 𝐀𝐩𝐥𝐢𝐜𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐖𝐞𝐛**
 
 ## 💜 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈
 Actualmente estoy estudiando el primer año de **Desarrollo de Aplicaciones Web**
