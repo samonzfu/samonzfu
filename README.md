@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/samonzfu/samonzfu/main/banner.png">
+<p>
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 
 # Hola, soy Sara Monzó!
 
