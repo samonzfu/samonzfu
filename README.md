@@ -15,9 +15,10 @@ Me interesa especialmente la parte visual y la experiencia de usuario, cuidando 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,flask,github,git,vscode"/>
 
 <h2 align="center">💜 𝐎𝐁𝐉𝐄𝐓𝐈𝐕𝐎𝐒 💜</h2>
-- Aprender buenas bases de programación.
-- Crear mis primeros proyectos web.
-- Mejorar poco a poco mi lógica y código.
+
+Aprender buenas bases de programación.
+Crear mis primeros proyectos web.
+Mejorar poco a poco mi lógica y código.
 
 <h2 align="center">🌙 𝐄𝐒𝐓𝐀𝐃𝐈𝐒𝐓𝐈𝐂𝐀𝐒 🌙</h2>
 
