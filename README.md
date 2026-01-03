@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAG9T5TxtRU/Wr-Ql6UaBqYglMRJHOYqZQ/view?utm_content=DAG9T5TxtRU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcd8fc1b91e
-" alt="Banner" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/samonzfu/samonzfu/main/banner.png">
+
 # Hola, soy Sara Monzó!
 
 ## 🌸 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈
